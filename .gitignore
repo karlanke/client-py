@@ -11,3 +11,6 @@ session_data
 # IDE files
 *.sublime-*
 
+# dist
+dist/
+fhirclient.egg-info
